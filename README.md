@@ -2,10 +2,10 @@
 <br/>
 
 
-I'm Bruno fay, future <strong>Project manager</strong> 😀!
+<strong>I'm Bruno fay, future Project manager 😀!
 <br/>
 I'm versatile and easily adapt to different roles ( Full Stack Web Developer, Backend Web Developer and Frontend Web Developer ), depending on what the project requires.
-OK but which one do you prefer to work on? Currently, Frontend has my heart <3.
+OK but which one do you prefer to work on? Currently, Frontend has my heart <3.</strong>
 
 
 ###  More About Me:

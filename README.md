@@ -46,7 +46,7 @@ OK but which one do you prefer to work on? Currently, Frontend has my heart <3.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunofay&show_icons=true&theme=gruvbox&locale=en" alt="brunofay" />
 </p>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunofay&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="brunofay" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunofay&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="brunofay" /></p>
 <br>
 
 ### Contacts:

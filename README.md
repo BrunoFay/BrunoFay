@@ -43,10 +43,12 @@ OK but which one do you prefer to work on? Currently, Frontend has my heart <3.<
 
 
 ### Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunofay&show_icons=true&theme=gruvbox&locale=en" alt="brunofay" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunofay&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="brunofay" /></p>
+  <div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=brunofay&show_icons=true&theme=gruvbox&locale=en" alt="brunofay" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=brunofay&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="brunofay" />
+  </a>
+</div>
 <br>
 
 ### Contacts:

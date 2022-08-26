@@ -10,7 +10,7 @@ OK but which one do you prefer to work on? Currently, Frontend has my heart <3.<
 
 ###  More About Me:
 
-- 🔭 &nbsp; I'm currently finishing the web development course at Trybe*
+- 🔭 &nbsp; I'm currently finishing the web development course at [Trybe](https://www.betrybe.com/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/brunofay/)
 - 📚 &nbsp; When I am free, I read animes,dystopias and  watch Casimiro's lives.

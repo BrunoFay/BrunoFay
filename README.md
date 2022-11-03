@@ -10,7 +10,7 @@ OK but which one do you prefer to work on? Currently, Frontend has my heart <3.<
 
 ###  More About Me:
 
-- 🔭 &nbsp; I'm currently finishing the web development course at [Trybe](https://www.betrybe.com/)
+- 🔭 &nbsp; I currently finished the fullstack web development course at [Trybe](https://www.betrybe.com/) and am specializing in React and typescript in the course of [Rocketseat](https://www.rocketseat.com.br/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/brunofay/)
 - 📚 &nbsp; When I am free, I read animes,dystopias and  watch Casimiro's lives.
@@ -49,10 +49,10 @@ OK but which one do you prefer to work on? Currently, Frontend has my heart <3.<
 ### Github Stats
   <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunofay&count_private=true&show_icons=true&theme=gruvbox" height="180em" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunofay&count_private=true&show_icons=true&theme=dracula" height="180em" align="center" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofay&layout=compact&theme=gruvbox" height="180em" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofay&count_private=true&layout=compact&theme=dracula" height="180em" align="center" />
 </a>
 </div>
 <br>

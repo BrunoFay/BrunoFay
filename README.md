@@ -2,18 +2,18 @@
 <br/>
 
 
-<strong>I'm Bruno fay, future Project manager 😀!
+<strong>I'm Bruno fay 😀!
 <br/>
-I'm versatile and easily adapt to different roles ( Full Stack Web Developer, Backend Web Developer and Frontend Web Developer ), depending on what the project requires.
+I'm versatile and easily adapt to different roles ( Full Stack Web Developer, Frontend Web Developer ), depending on what the project requires.
 OK but which one do you prefer to work on? Currently, Frontend has my heart <3.</strong>
 
 
 ###  More About Me:
 
-- 🔭 &nbsp; I currently finished the fullstack web development course at [Trybe](https://www.betrybe.com/) and am specializing in React and typescript in the course of [Rocketseat](https://www.rocketseat.com.br/)
+- 🔭 &nbsp; I currently finished the fullstack web development course at [Trybe](https://www.betrybe.com/) and am specializing in Swift and SwiftUI
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/brunofay/)
-- 📚 &nbsp; When I am free, I read animes,dystopias and  watch Casimiro's lives.
+- 📚 &nbsp; When I am free, I read animes, dystopias and  watch random Youtube videos.
 
 
 ### 🔨 Languages and Tools: 
